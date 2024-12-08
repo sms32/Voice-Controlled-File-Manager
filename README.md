@@ -51,7 +51,7 @@ python main.py
 
 ## Sample Voice Commands
 
-### File Operations
+### 1. File Operations
 
 - **Open a file**: "Open file report.txt"
 - **Rename a file**: "Rename file notes.txt"
@@ -59,13 +59,13 @@ python main.py
 - **Copy a file**: "Copy file image.jpg"
 - **Paste**: "Paste"
 
-### Folder Operations
+### 2. Folder Operations
 
 - **Open a folder**: "Open folder Documents"
 - **Rename a folder**: "Rename folder Projects"
 - **Delete a folder**: "Delete folder Downloads"
 
-### Navigation
+### 3. Navigation
 
 - **Go back**: "Back"
 - **Change directory to D drive**: "Change directory to D"

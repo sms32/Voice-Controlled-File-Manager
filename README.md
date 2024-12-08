@@ -47,6 +47,8 @@ python main.py
 - Use GUI buttons or double-click on items for file/folder management.
 - Issue voice commands for operations like opening, renaming, copying, or deleting files and folders.
 
+---
+
 ## Sample Voice Commands
 
 ### File Operations
